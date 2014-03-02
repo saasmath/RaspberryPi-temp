@@ -1,8 +1,8 @@
 {
-    "name":"socketio_example",
-    "version":"0.0.1",
+    "name":"rpi-core-temp",
+    "version":"0.0.2",
     "private": true,
     "dependencies":{
-        "socket.io":"0.8.7"
+        "socket.io":"0.9.16"
     }
 }
